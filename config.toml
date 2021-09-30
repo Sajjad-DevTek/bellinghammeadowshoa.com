@@ -5,3 +5,4 @@ theme = "ananke"
 
 [params]
   featured_image = "/images/monument3.jpg"
+  custom_css = ["custom.css"]
