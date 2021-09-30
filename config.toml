@@ -2,3 +2,6 @@ baseURL = "https://bellinghammeadowshoa.com/"
 languageCode = "en-us"
 title = "Bellingham Meadows HOA"
 theme = "ananke"
+
+[params]
+  featured_image = "/images/monument3.jpg"
